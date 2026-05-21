@@ -1,0 +1,42 @@
+{
+  "scout": {
+    "name": "Ryan",
+    "grade": "freshman",
+    "school": "Archbishop Mitty HS",
+    "home_base": "San Jose, CA"
+  },
+  "window_months": 6,
+  "filters": {
+    "in_person": {
+      "max_miles_from_san_jose": 60,
+      "cities": [
+        "San Jose", "San Francisco", "Oakland", "Berkeley", "Stanford",
+        "Palo Alto", "Mountain View", "Santa Clara", "Cupertino",
+        "Sunnyvale", "Fremont", "Santa Cruz", "Hayward", "San Mateo"
+      ]
+    },
+    "online": {
+      "rule": "flagship/prestigious only",
+      "allowed": [
+        "MLH majors",
+        "university-hosted (MIT, Stanford, Berkeley, CMU, Penn, Princeton, Waterloo, Harvard, Yale)",
+        "Hack Club flagships (Shipwrecked, Outernet, Counterspell, Boba Drops)"
+      ],
+      "skip": "generic Devpost online hackathons"
+    },
+    "eligibility": {
+      "require": "high-school eligible (welcomes HS, says 'all ages', or unrestricted)",
+      "skip": "explicitly college-only or 18+ unless they run an HS division",
+      "borderline": "surface with [unclear: verify eligibility] rather than drop"
+    },
+    "timing": "future only — registration open or not yet opened"
+  },
+  "sources": [
+    { "name": "Devpost", "url": "https://devpost.com/hackathons", "note": "upcoming + open, US" },
+    { "name": "MLH", "url": "https://mlh.io/seasons/2026/events" },
+    { "name": "Hack Club events", "url": "https://events.hackclub.com" },
+    { "name": "Hack Club", "url": "https://hackclub.com" },
+    { "name": "lu.ma", "url": "https://lu.ma/discover", "note": "search 'hackathon', SF Bay Area" },
+    { "name": "Eventbrite", "url": "https://www.eventbrite.com/d/ca--san-francisco-bay-area/hackathon/" }
+  ]
+}

@@ -1,1 +1,58 @@
-{}
+{
+  "https://www.synthesishacks.com/": {
+    "name": "Synthesis Hacks",
+    "location": "Google Humboldt, Sunnyvale, CA",
+    "deadline": "closed",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-05-23"
+  },
+  "https://milpitashacks.com/": {
+    "name": "Milpitas Hacks 3",
+    "location": "Milpitas High School, Milpitas, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-06-13"
+  },
+  "https://www.bayvalleyhacks.com/": {
+    "name": "Bay Valley Hacks",
+    "location": "Dublin, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-06-20"
+  },
+  "https://www.csihacks.com/": {
+    "name": "CSI Hacks",
+    "location": "Bay Area, CA (exact venue unclear)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-06-27"
+  },
+  "https://www.covehacks.dev/": {
+    "name": "Cove Hacks",
+    "location": "Bay Area, CA (exact venue TBD)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-07-24"
+  },
+  "https://marinhacks.com/": {
+    "name": "Marin Hacks",
+    "location": "Marin Catholic, Kentfield, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-08-02"
+  },
+  "https://enrichedcs-summerhacks.devpost.com/": {
+    "name": "Enriched CS Summer Hacks",
+    "location": "Santa Clara Central Park Library, Santa Clara, CA",
+    "deadline": "TBD — 110-spot limit, register early",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-08-08"
+  },
+  "https://shipwrecked.hackclub.com/": {
+    "name": "Shipwrecked (Hack Club flagship)",
+    "location": "Cathleen Stone Island, Boston Harbor, MA (travel grant provided)",
+    "deadline": "Earn invite by completing 'The Bay' challenge (60 hrs / 4 projects)",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-08-08"
+  }
+}

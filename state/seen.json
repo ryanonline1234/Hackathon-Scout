@@ -54,5 +54,12 @@
     "deadline": "Earn invite by completing 'The Bay' challenge (60 hrs / 4 projects)",
     "first_seen": "2026-05-21",
     "event_date": "2026-08-08"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Hewes Building, 995 Market St, San Francisco, CA",
+    "deadline": "TBD — see makerhacks.org",
+    "first_seen": "2026-05-21",
+    "event_date": "2026-10-18"
   }
 }

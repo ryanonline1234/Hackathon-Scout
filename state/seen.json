@@ -6,6 +6,13 @@
     "first_seen": "2026-05-21",
     "event_date": "2026-05-23"
   },
+  "https://www.alphag3n.com/copy-of-stanford-hack-a-thon-2025": {
+    "name": "ALPHAG3N HAI Hackathon @ Stanford",
+    "location": "Jen-Hsun Huang Engineering Center, Stanford University, Palo Alto, CA",
+    "deadline": "Day-of check-in — verify at alphag3n.com",
+    "first_seen": "2026-05-22",
+    "event_date": "2026-05-23"
+  },
   "https://milpitashacks.com/": {
     "name": "Milpitas Hacks 3",
     "location": "Milpitas High School, Milpitas, CA",
@@ -54,5 +61,12 @@
     "deadline": "Earn invite by completing 'The Bay' challenge (60 hrs / 4 projects)",
     "first_seen": "2026-05-21",
     "event_date": "2026-08-08"
+  },
+  "https://www.hyphen-hacks.com/": {
+    "name": "Hyphen Hacks",
+    "location": "Lick Wilmerding High School, San Francisco, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-22",
+    "event_date": "2026-09-26"
   }
 }

@@ -1,11 +1,4 @@
 {
-  "https://www.synthesishacks.com/": {
-    "name": "Synthesis Hacks",
-    "location": "Google Humboldt, Sunnyvale, CA",
-    "deadline": "closed",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-05-23"
-  },
   "https://milpitashacks.com/": {
     "name": "Milpitas Hacks 3",
     "location": "Milpitas High School, Milpitas, CA",
@@ -54,5 +47,19 @@
     "deadline": "Earn invite by completing 'The Bay' challenge (60 hrs / 4 projects)",
     "first_seen": "2026-05-21",
     "event_date": "2026-08-08"
+  },
+  "https://www.hyphen-hacks.com/": {
+    "name": "Hyphen Hacks 2026",
+    "location": "Lick Wilmerding High School, San Francisco, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-24",
+    "event_date": "2026-09-26"
+  },
+  "https://counterspell.hackclub.com/silicon-valley": {
+    "name": "Counterspell Silicon Valley",
+    "location": "Bay Area / Silicon Valley (exact venue TBD)",
+    "deadline": "TBD — 2026 date not yet announced",
+    "first_seen": "2026-05-24",
+    "event_date": "2026-11-01"
   }
 }

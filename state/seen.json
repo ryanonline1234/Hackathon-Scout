@@ -1,11 +1,4 @@
 {
-  "https://www.synthesishacks.com/": {
-    "name": "Synthesis Hacks",
-    "location": "Google Humboldt, Sunnyvale, CA",
-    "deadline": "closed",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-05-23"
-  },
   "https://milpitashacks.com/": {
     "name": "Milpitas Hacks 3",
     "location": "Milpitas High School, Milpitas, CA",
@@ -19,6 +12,13 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-21",
     "event_date": "2026-06-20"
+  },
+  "https://nexus.hackclub.com/": {
+    "name": "Horizons Nexus (Hack Club Flagship)",
+    "location": "San Francisco, CA",
+    "deadline": "Urgent — earn invite by shipping 35 hrs of projects on Horizons platform before ticket window closes",
+    "first_seen": "2026-05-25",
+    "event_date": "2026-06-19"
   },
   "https://www.csihacks.com/": {
     "name": "CSI Hacks",
@@ -54,5 +54,12 @@
     "deadline": "Earn invite by completing 'The Bay' challenge (60 hrs / 4 projects)",
     "first_seen": "2026-05-21",
     "event_date": "2026-08-08"
+  },
+  "https://www.hyphen-hacks.com/": {
+    "name": "Hyphen Hacks",
+    "location": "Lick Wilmerding High School, San Francisco, CA",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-05-25",
+    "event_date": "2026-09-26"
   }
 }

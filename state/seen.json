@@ -61,5 +61,12 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://www.makerhacks.org/": {
+    "name": "MakerHacks II",
+    "location": "Frontier Tower, downtown San Francisco, CA",
+    "deadline": "TBD — register early, limited spots",
+    "first_seen": "2026-05-29",
+    "event_date": "2026-10-18"
   }
 }

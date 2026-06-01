@@ -61,5 +61,19 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://arcana.hackclub.com/": {
+    "name": "Hack Club Arcana",
+    "location": "Singapore (travel stipend ~$8.50/approved Horizons hour)",
+    "deadline": "Earn invite via 35 hrs on Horizons platform — no hard date published",
+    "first_seen": "2026-06-01",
+    "event_date": "2026-07-31"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance (NASA × Hack Club)",
+    "location": "Online",
+    "deadline": "Open enrollment — runs June 1–Sept 30, 2026",
+    "first_seen": "2026-06-01",
+    "event_date": "2026-09-30"
   }
 }

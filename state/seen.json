@@ -61,5 +61,19 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://www.makerhacks.org/": {
+    "name": "MakerHacks II",
+    "location": "Downtown San Francisco, CA",
+    "deadline": "TBD — see makerhacks.org; registration via Fillout form",
+    "first_seen": "2026-06-02",
+    "event_date": "2026-10-18"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance (Hack Club × AMD × NASA)",
+    "location": "Online (ages 13–18); in-person invite for top builders at AMD Advancing AI, San Francisco, Jul 21–23",
+    "deadline": "Challenge open through September 30, 2026; start shipping now for in-person SF invite",
+    "first_seen": "2026-06-02",
+    "event_date": "2026-09-30"
   }
 }

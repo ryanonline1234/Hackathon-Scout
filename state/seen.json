@@ -61,5 +61,26 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Downtown San Francisco, CA",
+    "deadline": "TBD — register at official Fillout form (not via Devpost)",
+    "first_seen": "2026-06-03",
+    "event_date": "2026-10-18"
+  },
+  "https://crux.hackclub.com/": {
+    "name": "Horizons Crux (Hack Club Flagship)",
+    "location": "Sydney, Australia (flights + accommodation + meals covered)",
+    "deadline": "Earn 35 hrs on Horizons platform before July 10, 2026",
+    "first_seen": "2026-06-03",
+    "event_date": "2026-07-10"
+  },
+  "https://arcana.hackclub.com/": {
+    "name": "Horizons Arcana (Hack Club Flagship)",
+    "location": "Singapore (flights + accommodation + meals covered)",
+    "deadline": "Earn 35 hrs on Horizons platform before July 31, 2026",
+    "first_seen": "2026-06-03",
+    "event_date": "2026-07-31"
   }
 }

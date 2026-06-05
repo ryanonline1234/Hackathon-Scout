@@ -34,6 +34,20 @@
     "first_seen": "2026-05-21",
     "event_date": "2026-07-24"
   },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance (AMD × Hack Club) — In-Person SF Hackathon",
+    "location": "San Francisco, CA (AMD Advancing AI conference)",
+    "deadline": "Ongoing — earn invite via Stardance challenge (build projects June 1–Sept 30); in-person event July 21–23",
+    "first_seen": "2026-06-05",
+    "event_date": "2026-07-21"
+  },
+  "https://crux.hackclub.com/": {
+    "name": "Horizons Crux (Hack Club Flagship)",
+    "location": "Sydney, Australia (flights + accommodation + meals fully covered)",
+    "deadline": "Log 35 hrs on horizons.hackclub.com and exchange for ticket before July 10, 2026",
+    "first_seen": "2026-06-05",
+    "event_date": "2026-07-10"
+  },
   "https://marinhacks.com/": {
     "name": "Marin Hacks",
     "location": "Marin Catholic, Kentfield, CA",

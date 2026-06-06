@@ -34,6 +34,13 @@
     "first_seen": "2026-05-21",
     "event_date": "2026-07-24"
   },
+  "https://highway.hackclub.com/": {
+    "name": "Highway to Undercity (Hack Club Flagship)",
+    "location": "GitHub HQ, San Francisco, CA",
+    "deadline": "Earn 4 points on Highway hardware program before Jul 11 — sign up now at highway.hackclub.com",
+    "first_seen": "2026-06-06",
+    "event_date": "2026-07-11"
+  },
   "https://marinhacks.com/": {
     "name": "Marin Hacks",
     "location": "Marin Catholic, Kentfield, CA",
@@ -61,5 +68,12 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Downtown San Francisco, CA",
+    "deadline": "TBD — see makerhacks.org",
+    "first_seen": "2026-06-06",
+    "event_date": "2026-10-18"
   }
 }

@@ -61,5 +61,19 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance (Hack Club × AMD × NASA × GitHub Education)",
+    "location": "Online (Jun 1–Sep 30) + In-person: San Francisco, CA (Jul 21–23)",
+    "deadline": "Qualify via stardust tokens before July 21; start building now",
+    "first_seen": "2026-06-07",
+    "event_date": "2026-07-21"
+  },
+  "https://fallout.hackclub.com/": {
+    "name": "Fallout — Hack Club Hardware Hackathon",
+    "location": "Shenzhen, China (flights + accommodation fully covered)",
+    "deadline": "Log 60h of funded hardware projects to qualify; must finish before Jul 1",
+    "first_seen": "2026-06-07",
+    "event_date": "2026-07-01"
   }
 }

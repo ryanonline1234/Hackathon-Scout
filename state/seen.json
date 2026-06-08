@@ -61,5 +61,26 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://highway.hackclub.com/": {
+    "name": "Hack Club Undercity (Highway)",
+    "location": "GitHub HQ, San Francisco, CA",
+    "deadline": "Earn invite before July 11 via Highway grant program (4 pts + 1 built project)",
+    "first_seen": "2026-06-08",
+    "event_date": "2026-07-11"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance Challenge (Hack Club × AMD × NASA)",
+    "location": "Online (ages 13-18 worldwide); in-person showcase San Francisco, CA (July 21-23)",
+    "deadline": "Online challenge open now through Sept 30; in-person invite earned via challenge",
+    "first_seen": "2026-06-08",
+    "event_date": "2026-07-21"
+  },
+  "https://counterspell.hackclub.com/silicon-valley": {
+    "name": "Counterspell Silicon Valley",
+    "location": "Bay Area, Silicon Valley, CA (venue TBD)",
+    "deadline": "TBD — fall 2026, date not yet announced",
+    "first_seen": "2026-06-08",
+    "event_date": "2026-11-01"
   }
 }

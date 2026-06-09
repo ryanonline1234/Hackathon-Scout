@@ -61,5 +61,33 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Hack Club Stardance Challenge (AMD + NASA + GitHub Education)",
+    "location": "Online worldwide; in-person showcase at AMD Advancing AI, San Francisco, CA (July 21–23)",
+    "deadline": "September 30, 2026 (challenge end); in-person invite via Stardust coins — earn early",
+    "first_seen": "2026-06-09",
+    "event_date": "2026-09-30"
+  },
+  "https://opensauce2026.hackclub.com/": {
+    "name": "Hack Club Outpost at Open Sauce",
+    "location": "San Mateo, CA (Open Sauce venue, ~20 mi from San Jose)",
+    "deadline": "Access via Stardance Shop (Stardust coins); confirm ticket availability",
+    "first_seen": "2026-06-09",
+    "event_date": "2026-07-17"
+  },
+  "https://daydream.hackclub.com/": {
+    "name": "Hack Club Daydream (World's Biggest Game Jam)",
+    "location": "100+ cities globally; Bay Area location TBC — verify before registering",
+    "deadline": "TBD — watch site for Bay Area location announcement",
+    "first_seen": "2026-06-09",
+    "event_date": "2026-09-27"
+  },
+  "https://neighborhood.hackclub.com/": {
+    "name": "Hack Club Neighborhood (SF Summer Residency)",
+    "location": "San Francisco, CA",
+    "deadline": "Rolling — complete 100 hours of coding to unlock free stay",
+    "first_seen": "2026-06-09",
+    "event_date": "2026-08-31"
   }
 }

@@ -61,5 +61,12 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://www.makerhacks.org/": {
+    "name": "MakerHacks II",
+    "location": "Hewes Building, 995 Market St, San Francisco, CA",
+    "deadline": "TBD — see makerhacks.org",
+    "first_seen": "2026-06-10",
+    "event_date": "2026-10-18"
   }
 }

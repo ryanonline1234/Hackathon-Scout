@@ -61,5 +61,33 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://opensauce2026.hackclub.com/": {
+    "name": "Hack Club Outpost at Open Sauce",
+    "location": "San Mateo County Event Center, San Mateo, CA",
+    "deadline": "Qualify via Stardance project building ASAP — hackathon ~July 13-16, Open Sauce July 17-19",
+    "first_seen": "2026-06-11",
+    "event_date": "2026-07-13"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance In-Person Finale (AMD Advancing AI x Hack Club)",
+    "location": "San Francisco, CA (AMD Advancing AI conference venue)",
+    "deadline": "Qualify via Stardance project building — program June 1–Sept 30; build now for July 21-23 invite",
+    "first_seen": "2026-06-11",
+    "event_date": "2026-07-21"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Downtown San Francisco, CA",
+    "deadline": "TBD — see makerhacks.org",
+    "first_seen": "2026-06-11",
+    "event_date": "2026-10-18"
+  },
+  "https://assemble.hackclub.com/launch": {
+    "name": "Hack Club Assemble [verify year — may be 2022 event page]",
+    "location": "Figma HQ, 760 Market St, San Francisco, CA",
+    "deadline": "Waitlist — register.assemble.hackclub.com; verify 2026 dates before registering",
+    "first_seen": "2026-06-11",
+    "event_date": "2026-08-05"
   }
 }

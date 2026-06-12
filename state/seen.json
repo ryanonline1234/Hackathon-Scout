@@ -61,5 +61,33 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://highway.hackclub.com/": {
+    "name": "Hack Club Undercity (Highway program)",
+    "location": "GitHub HQ, San Francisco, CA (~47 mi from San Jose)",
+    "deadline": "Earn invite via Highway program — 4+ points + 1 built project before July 11",
+    "first_seen": "2026-06-12",
+    "event_date": "2026-07-11"
+  },
+  "https://opensauce2026.hackclub.com/": {
+    "name": "Hack Club Outpost + Open Sauce Showcase",
+    "location": "San Francisco / San Mateo County Event Center, San Mateo, CA (~20 mi from San Jose)",
+    "deadline": "Purchase ticket with Stardust from Stardance shop",
+    "first_seen": "2026-06-12",
+    "event_date": "2026-07-17"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Hack Club Stardance",
+    "location": "Online (+ AMD in-person hackathon San Francisco July 21-23 for qualifying US participants)",
+    "deadline": "Rolling — open June 1 through September 30, 2026",
+    "first_seen": "2026-06-12",
+    "event_date": "2026-09-30"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Hewes Building, 995 Market St, San Francisco, CA (~47 mi from San Jose)",
+    "deadline": "TBD — register at makerhacks.org (not Devpost)",
+    "first_seen": "2026-06-12",
+    "event_date": "2026-10-18"
   }
 }

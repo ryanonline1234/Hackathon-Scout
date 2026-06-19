@@ -1,11 +1,4 @@
 {
-  "https://milpitashacks.com/": {
-    "name": "Milpitas Hacks 3",
-    "location": "Milpitas High School, Milpitas, CA",
-    "deadline": "TBD — see site",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-06-13"
-  },
   "https://www.bayvalleyhacks.com/": {
     "name": "Bay Valley Hacks",
     "location": "Dublin, CA",
@@ -26,6 +19,20 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-21",
     "event_date": "2026-06-27"
+  },
+  "https://thevakathon.com": {
+    "name": "The VAkathon",
+    "location": "Bay Area, CA (exact city TBD — see site)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-06-19",
+    "event_date": "2026-07-11"
+  },
+  "https://luma.com/ep9jjo5u": {
+    "name": "Fire Hacks (by CodeStarters)",
+    "location": "Bay Area, CA (exact city TBD)",
+    "deadline": "TBD — see luma page",
+    "first_seen": "2026-06-19",
+    "event_date": "2026-07-11"
   },
   "https://www.covehacks.dev/": {
     "name": "Cove Hacks",

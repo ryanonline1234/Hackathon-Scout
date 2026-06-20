@@ -1,24 +1,10 @@
 {
-  "https://milpitashacks.com/": {
-    "name": "Milpitas Hacks 3",
-    "location": "Milpitas High School, Milpitas, CA",
-    "deadline": "TBD — see site",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-06-13"
-  },
   "https://www.bayvalleyhacks.com/": {
     "name": "Bay Valley Hacks",
     "location": "Dublin, CA",
     "deadline": "TBD — see site",
     "first_seen": "2026-05-21",
     "event_date": "2026-06-20"
-  },
-  "https://nexus.hackclub.com/": {
-    "name": "Horizons Nexus (Hack Club Flagship)",
-    "location": "San Francisco, CA",
-    "deadline": "Urgent — earn invite by shipping 35 hrs of projects on Horizons platform before ticket window closes",
-    "first_seen": "2026-05-25",
-    "event_date": "2026-06-19"
   },
   "https://www.csihacks.com/": {
     "name": "CSI Hacks",
@@ -33,6 +19,13 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-21",
     "event_date": "2026-07-24"
+  },
+  "https://thevakathon.com/": {
+    "name": "The Vaka-thon",
+    "location": "Bay Area, CA (exact venue TBD)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-06-20",
+    "event_date": "2026-07-11"
   },
   "https://marinhacks.com/": {
     "name": "Marin Hacks",

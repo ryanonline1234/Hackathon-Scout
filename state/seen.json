@@ -1,25 +1,4 @@
 {
-  "https://milpitashacks.com/": {
-    "name": "Milpitas Hacks 3",
-    "location": "Milpitas High School, Milpitas, CA",
-    "deadline": "TBD — see site",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-06-13"
-  },
-  "https://www.bayvalleyhacks.com/": {
-    "name": "Bay Valley Hacks",
-    "location": "Dublin, CA",
-    "deadline": "TBD — see site",
-    "first_seen": "2026-05-21",
-    "event_date": "2026-06-20"
-  },
-  "https://nexus.hackclub.com/": {
-    "name": "Horizons Nexus (Hack Club Flagship)",
-    "location": "San Francisco, CA",
-    "deadline": "Urgent — earn invite by shipping 35 hrs of projects on Horizons platform before ticket window closes",
-    "first_seen": "2026-05-25",
-    "event_date": "2026-06-19"
-  },
   "https://www.csihacks.com/": {
     "name": "CSI Hacks",
     "location": "Bay Area, CA (exact venue unclear)",
@@ -33,6 +12,20 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-21",
     "event_date": "2026-07-24"
+  },
+  "https://luma.com/ep9jjo5u": {
+    "name": "Fire Hacks",
+    "location": "Bay Area, CA (exact venue TBD — check firehacks.codestarters.org)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-06-23",
+    "event_date": "2026-07-11"
+  },
+  "https://thevakathon.com": {
+    "name": "Vaka Hacks (TheVAKathon)",
+    "location": "Bay Area, CA (exact venue TBD)",
+    "deadline": "TBD — see site",
+    "first_seen": "2026-06-23",
+    "event_date": "2026-07-11"
   },
   "https://marinhacks.com/": {
     "name": "Marin Hacks",
@@ -61,5 +54,12 @@
     "deadline": "TBD — see site",
     "first_seen": "2026-05-25",
     "event_date": "2026-09-26"
+  },
+  "https://maker-hacks-ii.devpost.com/": {
+    "name": "MakerHacks II",
+    "location": "Downtown San Francisco, CA",
+    "deadline": "TBD — register at makerhacks.org",
+    "first_seen": "2026-06-23",
+    "event_date": "2026-10-18"
   }
 }

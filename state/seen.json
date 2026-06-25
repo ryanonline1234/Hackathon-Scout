@@ -61,5 +61,19 @@
     "deadline": "TBD — register at makerhacks.org",
     "first_seen": "2026-06-23",
     "event_date": "2026-10-18"
+  },
+  "https://stardance.hackclub.com/": {
+    "name": "Stardance Challenge (Hack Club + AMD + NASA)",
+    "location": "Online (nationwide) + in-person AMD Advancing AI, San Francisco, CA (July 21–23 for qualifiers)",
+    "deadline": "Rolling — open through September 30, 2026; register at stardance.hackclub.com/amd",
+    "first_seen": "2026-06-25",
+    "event_date": "2026-09-30"
+  },
+  "https://outpost.hackclub.com/": {
+    "name": "Hack Club Outpost at Open Sauce",
+    "location": "San Francisco, CA (hackathon Jul 14–17) + San Mateo County Event Center, San Mateo, CA (Open Sauce Jul 17–19)",
+    "deadline": "URGENT — hackathon starts July 14; qualify via Stardance Stardust now",
+    "first_seen": "2026-06-25",
+    "event_date": "2026-07-17"
   }
 }
